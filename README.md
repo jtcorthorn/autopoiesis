@@ -2,7 +2,7 @@
 
 A portable method for maintaining and improving useful agent capabilities within human-owned goals.
 
-Status: local source candidate. No background service, installer, publisher or self-modification authority is provided. The method can be used with an existing executor.
+Status: initial public package published on 2026-10-14; subsequent local edits are release candidates until independently published and verified. No background service, installer, publisher or self-modification authority is provided. The method can be used with an existing executor.
 
 | Need | Read |
 |---|---|
